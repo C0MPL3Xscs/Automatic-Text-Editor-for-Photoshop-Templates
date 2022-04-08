@@ -2,7 +2,7 @@
 **How it works:**
 - Opens a window;
 - User writes the new text and clicks "Enter";
-- Photoshop opens edits saves as .png and closes.
+- Photoshop opens, edits saves as .png and closes.
 
 
 
