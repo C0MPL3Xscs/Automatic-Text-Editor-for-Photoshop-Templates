@@ -16,7 +16,7 @@ source = r"Source"                  ## ENTER HERE THE SOURCE FILE [ex. C:\\Users
 
 destination = "Destination"         ## ENTER HERE WHERE YOU WANT TO SAVE THE FINAL .PNG (Enter at the end the name of the new file [EX. New.png]) [ex. C:\\Users\\Admin\\DeskTop\\New.png]
 
-layername = ""                      ## ENTER HERE THE NAME OF THE TEXT LAYER YOU WANT TO EDIT
+layername = ""                      ## ENTER HERE THE NAME OF THE TEXT LAYER YOU WANT TO EDIT[Layer cant be inside a group]
 ##------------------------------------------------##
 
 ## DO NOT CHANGE THE CODE BELOW OR IT MIGHT STOP WORKING!!!
