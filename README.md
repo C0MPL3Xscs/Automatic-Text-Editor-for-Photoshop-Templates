@@ -9,8 +9,8 @@
 **You need to edit on the script:**
 - Title of the UI;
 - Text of the UI;
-- Source of the .psd file;
-- Destination of the final file;
-- Name of the Text Layer;
+- The .psd file path;
+- The pretended path destination of the final file;
+- Name of the Text Layer you want to edit;
 
 **ALL EDITABLE PART ARE SEPARATED FROM THE SCRIPT WITH COMMENTS**
