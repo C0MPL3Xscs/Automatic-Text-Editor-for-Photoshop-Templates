@@ -12,11 +12,11 @@ Title = ""                          ##Enter here the template title
 
 Text1 = ""                          ##Enter text here [ex. "ENTER HERE YOUR NICKNAME:"]
 
-source = r"Source"                  ## ENTER HERE THE SOURCE FILE [ex. C:\\Users\\Admin\\DeskTop\\Test.psd] (DO NOT REMOVE THE "r")
+source = r"Source"                  ## ENTER HERE THE .psd FILE PATH [ex. C:\\Users\\Admin\\DeskTop\\Test.psd] (DO NOT REMOVE THE "r")
 
 destination = "Destination"         ## ENTER HERE WHERE YOU WANT TO SAVE THE FINAL .PNG (Enter at the end the name of the new file [EX. New.png]) [ex. C:\\Users\\Admin\\DeskTop\\New.png]
 
-layername = ""                      ## ENTER HERE THE NAME OF THE TEXT LAYER YOU WANT TO EDIT[Layer cant be inside a group]
+layername = ""                      ## ENTER HERE THE NAME OF THE TEXT LAYER YOU WANT TO EDIT [Layer cant be inside a group on the photoshop project]
 ##------------------------------------------------##
 
 ## DO NOT CHANGE THE CODE BELOW OR IT MIGHT STOP WORKING!!!
