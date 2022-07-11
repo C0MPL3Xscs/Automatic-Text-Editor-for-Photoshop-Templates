@@ -1,4 +1,4 @@
-# Automatic-Text-Editor-for-Photoshop-Templates
+# Automatic-Text-Editor-for-Photoshop-Templates with GUI
 **How it works:**
 - Opens a window;
 - User writes the new text and clicks "Enter";
