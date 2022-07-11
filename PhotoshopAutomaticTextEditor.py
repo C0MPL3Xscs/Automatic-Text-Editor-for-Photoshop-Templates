@@ -21,7 +21,7 @@ layername = ""                      ## ENTER HERE THE NAME OF THE TEXT LAYER YOU
 
 ## DO NOT CHANGE THE CODE BELOW OR IT MIGHT STOP WORKING!!!
 
-##-------------------------------------------- APP UI --------------------------
+##-------------------------------------------- GUI --------------------------
 root= tk.Tk()
 canvas1 = tk.Canvas(root, width = 400, height = 300,  relief = 'raised')
 canvas1.pack()
