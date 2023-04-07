@@ -9,7 +9,7 @@ Basicly what you would have to do in some minutes can be done in less then 5 sec
 **How it works:**
 - Opens a window;
 - User writes the new text and clicks "Enter";
-- Photoshop opens, edits saves as .png and closes.
+- Photoshop opens, edits, saves as .png and closes.
 
 
 
