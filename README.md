@@ -1,7 +1,7 @@
 # Automatic-Text-Editor-for-Photoshop-Templates with GUI
 
 **What is this for?**<br><br>
-This is a basic python script for photoshop templates sellerS/users.
+This is a basic python script for photoshop templates sellers/users.
 It works with any photoshop project and can be easly modified for your needs.
 In short with one click it opens, modifies and save as png any photoshop project.
 Basicly what you would have to do in some minutes can be done in less then 5 seconds.
