@@ -21,3 +21,5 @@ Basicly what you would have to do in some minutes can be done in less then 5 sec
 - Name of the Text Layer you want to edit;
 
 **ALL EDITABLE PART ARE SEPARATED FROM THE SCRIPT WITH COMMENTS**
+
+Found this helpful? You can support me by [Buying me a coffe ☕ ](https://www.buymeacoffee.com/samukasamp)
